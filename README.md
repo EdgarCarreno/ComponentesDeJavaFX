@@ -7,4 +7,5 @@ Bienvenido a este repositorio donde se recopilan diversos ejercicios y proyectos
 ### Proyectos Disponibles
 
 * **ejercicio 3_1**: Juego simple de cartas (adivina la pareja) junto al componente aparte.
+* **ejercicio 3_2**: Componente simple con un par de eventos y una animacion.
 * **ejercicio 6_1**: Creación de una aplicación para generar informes junto a su base de datos y documentación detallada.
